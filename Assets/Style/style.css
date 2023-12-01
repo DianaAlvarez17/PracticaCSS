@@ -1,0 +1,32 @@
+p{
+    background-color: blue;
+}
+
+#Rey{
+    color: blueviolet;
+}
+
+#Rene {
+    color: aqua;
+}
+
+.CH35{
+    color: blue;
+}
+
+
+.RU{
+    width: 200;
+    height: 200;
+    margin: 20px 50px;
+    padding: 30px;
+    border: solid seashell;
+}
+
+div{
+    width: 200;
+    height: 200;
+    margin:20px 50px;
+    padding:30px;
+    border: solid red
+}
